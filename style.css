@@ -1,0 +1,25 @@
+body {
+   background-color: rgb(236, 116, 240);
+   color: white;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    background-color: purple;
+}
+
+h3 {
+    background-color: rgb(145, 19, 145);
+}
+
+ul, ol {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
